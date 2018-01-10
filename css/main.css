@@ -4,15 +4,18 @@ html {
   background-color: #c9b5ab;
   font-family: 'PT Sans', sans-serif;
   font-family: 'PT Serif', serif;
+  font-weight: normal;
 }
 
 h1 {
   font-size: 1.5rem;
   color: #3f1622;
+  font-weight: bold;
 }
 
 nav {
   font-size: 1.125rem;
   color: #8f2440;
   text-decoration: none;
+  font-weight: bold;
 }
