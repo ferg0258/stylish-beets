@@ -4,7 +4,7 @@ html {
   background-color: #c9b5ab;
   font-weight: normal;
   font-family: "PT Sans", sans-serif;
-    color: #3f1622;
+  color: #3f1622;
 }
 
 h1 h2 {
@@ -45,7 +45,7 @@ img {
 
 p {
   font-family: "PT Serif", serif;
-    color: #222;
+  color: #222;
 }
 
 main {
@@ -55,6 +55,7 @@ main {
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
+  font-weight: bold;
   color: #222;
 }
 
