@@ -2,12 +2,11 @@ html {
   font-size: .8rem;
   line-height: 1.5;
   background-color: #c9b5ab;
-  font-family: "PT Serif", serif;
   font-weight: normal;
+  font-family: "PT Sans", sans-serif;
 }
 
 h1 h2 {
-  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   color: #3f1622;
   font-weight: bold;
@@ -41,4 +40,21 @@ figcaption {
 
 img {
   width: 100%;
+}
+
+p {
+  font-family: "PT Serif", serif;
+}
+
+figcaption {
+  font-family: "PT Serif", serif;
+}
+
+main {
+  font-family: "PT Serif", serif;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
 }
