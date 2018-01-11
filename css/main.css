@@ -36,6 +36,7 @@ a:hover {
 figcaption {
   text-align: center;
   font-style: italic;
+  font-family: "PT Serif", serif;
 }
 
 img {
@@ -43,10 +44,6 @@ img {
 }
 
 p {
-  font-family: "PT Serif", serif;
-}
-
-figcaption {
   font-family: "PT Serif", serif;
 }
 
