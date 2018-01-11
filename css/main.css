@@ -2,20 +2,40 @@ html {
   font-size: .8rem;
   line-height: 1.5;
   background-color: #c9b5ab;
-  font-family: "PT Sans", sans-serif;
   font-family: "PT Serif", serif;
   font-weight: normal;
 }
 
-h1 {
+h1 h2 {
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   color: #3f1622;
   font-weight: bold;
 }
 
 nav {
+  font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   color: #8f2440;
   text-decoration: none;
   font-weight: bold;
+  list-style-type: none;
+}
+
+ol {
+  list-style: none;
+}
+
+li:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
 }
